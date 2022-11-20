@@ -20,9 +20,9 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">"完美的"README模板</h3>
+  <h3 align="center">Paper With 蛋蛋</h3>
   <p align="center">
-    一个"完美的"README模板去快速开始你的项目！
+    一个"完美的"仓库 For 蛋蛋晋升！
     <br />
     <a href="https://github.com/Bio-Gas/Paper_with_Plan"><strong>探索本项目的文档 »</strong></a>
     <br />
